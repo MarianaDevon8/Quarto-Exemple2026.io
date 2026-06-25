@@ -29,3 +29,7 @@ You can add options to executable code like this
 #| echo: false
 2 * 2
 ```
+
+Al final es mejor aprender R que frances
+
+![](images/defensa final (1)ijoñ.png)
