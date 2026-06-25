@@ -1,13 +1,19 @@
 ---
-title: "index.qmd"
+title: "mi 1ra práctica de Quarto"
 author: "Mariana Devon"
 format: html
 editor: visual
 ---
 
-## Quarto
+## ¡Snoopy quiere decirte algo!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+::: callout-warning
+## ¡Si no aprendes R, no tendrás trabajo!
+
+Debes aprender Quarto y RmarkDown en el kinder radioactivo
+:::
+
+![](images/IMG_0309.jpeg)
 
 ## Running Code
 
@@ -23,5 +29,3 @@ You can add options to executable code like this
 #| echo: false
 2 * 2
 ```
-
-The `echo: false` option disables the printing of code (only output is displayed).
